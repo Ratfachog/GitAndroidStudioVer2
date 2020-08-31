@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("tag", "message");
         Log.i("tag", "message");
 
+        Log.i("tag", "mslmsanjaessage");
+
+
     }
 }
